@@ -1,0 +1,210 @@
+#include "cubieStruct.h"
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>  
+#include "cubieStruct.h"
+#include "functions.h"
+
+//[width][row][col]
+//LEFT: col = 0
+//RIGHT: col = 2
+//UP: row = 2
+//DOWN: row = 0
+//FRONT: width = 0
+//BACK: width = 2
+//middle (2,2,2)
+//UFDBLR
+//wryogb
+//B = black
+//in solved positions red in front 
+//in solved positions red in front 
+//this is left inverse
+void leftI(struct cube *c) {
+int wid;
+int row;
+int col;
+char tempOrientation[6];
+int tempLocation[3];
+
+ 
+//ptr = &c;
+	
+	
+	for(wid = 0; wid < 3; wid++){
+			for(row = 0; row < 3; row++){
+				
+					if((*c).aCubie[wid][row][col].currentLocation[2] == 0){
+					//printf("%s\n", (*c).aCubie[wid][row][col].currentOrientation);
+					//printf("%d\n", (*c).aCubie[wid][row][col].currentLocation);
+
+						strcpy(tempOrientation, "BBBBBB");
+						//tempLocation[3] = 0;
+						int tw;
+						int tr;
+						int tc;
+						
+
+							if((*c).aCubie[wid][row][col].currentLocation[0] == 0){ //front
+								tempOrientation[0] = (*c).aCubie[wid][row][col].currentOrientation[1];
+								tr= 2;//F->U
+								//printf("temp: %d\n", (*c).aCubie[wid][row][col].currentLocation[1]);
+
+							}
+							else if((*c).aCubie[wid][row][col].currentLocation[0] == 2){//back
+								tempOrientation[2] = (*c).aCubie[wid][row][col].currentOrientation[3];
+								tc = 0; //B -> D
+							}
+							if((*c).aCubie[wid][row][col].currentLocation[1] == 2){//up
+								tempOrientation[3] = (*c).aCubie[wid][row][col].currentOrientation[0];
+								//printf("TempOrientation for up: %c\n", tempOrientation[3]);
+								tw = 2;//U->B
+								
+							}
+							else if((*c).aCubie[wid][row][col].currentLocation[1] == 0){//down
+								tempOrientation[1] = (*c).aCubie[wid][row][col].currentOrientation[2];
+								tr = 0; //D -> F
+							}
+							if((*c).aCubie[wid][row][col].currentLocation[2] == 0){//left
+								tempOrientation[4] = (*c).aCubie[wid][row][col].currentOrientation[4];
+								tc = 0; //L
+							}
+						strcpy((*c).aCubie[wid][row][col].currentOrientation, tempOrientation);
+					//	printf("%s\n", (*c).aCubie[wid][row][col].currentOrientation);
+						//(*c).aCubie[wid][row][col].currentLocation[3] = 0;
+						//(*c).aCubie[wid][row][col].currentLocation[0] = tempLocation[0];
+						
+						//(*c).aCubie[wid][row][col].currentLocation[1] = tempLocation[1];
+						
+						//(*c).aCubie[wid][row][col].currentLocation[2] = tempLocation[2];
+
+						 //tw=tempLocation[0];
+						 //tr=tempLocation[1];
+						 //tc=tempLocation[2];
+
+
+
+
+
+
+						(*c).aCubie[wid][row][col].currentLocation[0] = *(&tw);
+						
+						(*c).aCubie[wid][row][col].currentLocation[1] = *(&tr);
+						
+						(*c).aCubie[wid][row][col].currentLocation[2] = *(&tc);
+
+
+
+						/*int *ptr1 = tw;
+						int *ptr2 = tr;
+						int *ptr3 = tc;
+
+
+						(*c).aCubie[wid][row][col].currentLocation[0] = ptr1;
+						
+						(*c).aCubie[wid][row][col].currentLocation[1] = ptr2;
+						
+						(*c).aCubie[wid][row][col].currentLocation[2] = ptr3;*/
+
+						//printf("%d\n", (*c).aCubie[wid][row][col].currentLocation[0]);						
+						//printf("%d\n", (*c).aCubie[wid][row][col].currentLocation[1]);
+						//printf("%d\n", (*c).aCubie[wid][row][col].currentLocation[2]);
+						//printf("%d\n", tempLocation[0]);						
+						//printf("%d\n", tempLocation[1]);
+						//printf("%d\n", tempLocation[2]);
+						
+						
+					//}
+				//}
+			}
+		}
+
+	}
+}
+	
+
+}
+
+/*void left2(struct cube *c) {
+	int wid;
+	int row;
+	int col;
+	char tempOrientation[6];
+	int tempLocation[3];
+
+	for(wid = 0; wid < 3; wid++){
+			for(row = 0; row < 3; row++){
+				col = 0;
+						strcpy(tempOrientation, "BBBBBB");
+						tempLocation[3] = 0;
+
+							if((*c).aCubie[wid][row][col].currentLocation[0] == 0){ //front
+								tempOrientation[0] = (*c).aCubie[wid][row][col].currentOrientation[1];
+								tempLocation[1]= 2;//F->U
+
+							}
+							else if((*c).aCubie[wid][row][col].currentLocation[0] == 2){//back
+								tempOrientation[2] = (*c).aCubie[wid][row][col].currentOrientation[3];
+								tempLocation[2] = 0; //B -> D
+							}
+							if((*c).aCubie[wid][row][col].currentLocation[1] == 2){//up
+								tempOrientation[3] = (*c).aCubie[wid][row][col].currentOrientation[0];
+								tempLocation[0] = 2;//U->B
+								
+							}
+							else if((*c).aCubie[wid][row][col].currentLocation[1] == 0){//down
+								tempOrientation[1] = (*c).aCubie[wid][row][col].currentOrientation[2];
+								tempLocation[1] = 0; //D -> F
+							}
+							if((*c).aCubie[wid][row][col].currentLocation[2] == 0){//left
+								tempOrientation[4] = (*c).aCubie[wid][row][col].currentOrientation[4];
+								tempLocation[2] = 0; //L
+							}
+						strcpy((*cube1).aCubie[wid][row][col].currentOrientation, tempOrientation);
+						(*cube1).aCubie[wid][row][col].currentLocation[0] = tempLocation[0];
+						(*cube1).aCubie[wid][row][col].currentLocation[1] = tempLocation[1];
+						(*cube1).aCubie[wid][row][col].currentLocation[2] = tempLocation[2];
+					//}
+				//}
+			}
+
+	}
+
+	for(wid = 0; wid < 3; wid++){
+			for(row = 0; row < 3; row++){
+				col = 0;
+						strcpy(tempOrientation, "BBBBBB");
+						tempLocation[3] = 0;
+
+							if((*c).aCubie[wid][row][col].currentLocation[0] == 0){ //front
+								tempOrientation[0] = (*c).aCubie[wid][row][col].currentOrientation[1];
+								tempLocation[1]= 2;//F->U
+
+							}
+							else if((*c).aCubie[wid][row][col].currentLocation[0] == 2){//back
+								tempOrientation[2] = (*c).aCubie[wid][row][col].currentOrientation[3];
+								tempLocation[2] = 0; //B -> D
+							}
+							if((*c).aCubie[wid][row][col].currentLocation[1] == 2){//up
+								tempOrientation[3] = (*c).aCubie[wid][row][col].currentOrientation[0];
+								tempLocation[0] = 2;//U->B
+								
+							}
+							else if((*c).aCubie[wid][row][col].currentLocation[1] == 0){//down
+								tempOrientation[1] = (*c).aCubie[wid][row][col].currentOrientation[2];
+								tempLocation[1] = 0; //D -> F
+							}
+							if((*c).aCubie[wid][row][col].currentLocation[2] == 0){//left
+								tempOrientation[4] = (*c).aCubie[wid][row][col].currentOrientation[4];
+								tempLocation[2] = 0; //L
+							}
+						strcpy((*cube1).aCubie[wid][row][col].currentOrientation, tempOrientation);
+						(*cube1).aCubie[wid][row][col].currentLocation[0] = tempLocation[0];
+						(*cube1).aCubie[wid][row][col].currentLocation[1] = tempLocation[1];
+						(*cube1).aCubie[wid][row][col].currentLocation[2] = tempLocation[2];
+					//}
+				//}
+			}
+
+	}
+	return;
+}*/

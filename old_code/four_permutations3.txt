@@ -1,0 +1,48 @@
+ l  r  lI  rI 
+3 4 9 10
+
+ l  rI  lI  r 
+3 10 9 4
+
+ r  l  rI  lI 
+4 3 10 9
+
+ r  lI  rI  l 
+4 9 10 3
+
+ b  f  bI  fI 
+5 6 11 12
+
+ b  fI  bI  f 
+5 12 11 6
+
+ f  b  fI  bI 
+6 5 12 11
+
+ f  bI  fI  b 
+6 11 12 5
+
+ lI  r  l  rI 
+9 4 3 10
+
+ lI  rI  l  r 
+9 10 3 4
+
+ rI  l  r  lI 
+10 3 4 9
+
+ rI  lI  r  l 
+10 9 4 3
+
+ bI  f  b  fI 
+11 6 5 12
+
+ bI  fI  b  f 
+11 12 5 6
+
+ fI  b  f  bI 
+12 5 6 11
+
+ fI  bI  f  b 
+12 11 6 5
+

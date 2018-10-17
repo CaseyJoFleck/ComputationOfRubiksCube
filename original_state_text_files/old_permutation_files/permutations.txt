@@ -1,0 +1,5598 @@
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+
+ u  u  uI  uI 
+
+ u  d  uI  dI 
+
+ u  d  dI  uI 
+
+ u  l  lI  uI 
+
+ u  r  rI  uI 
+
+ u  b  bI  uI 
+
+ u  f  fI  uI 
+
+ u  uI  u  uI 
+
+ u  uI  d  dI 
+
+ u  uI  l  lI 
+
+ u  uI  r  rI 
+
+ u  uI  b  bI 
+
+ u  uI  f  fI 
+
+ u  uI  uI  u 
+
+ u  uI  dI  d 
+
+ u  uI  lI  l 
+
+ u  uI  rI  r 
+
+ u  uI  bI  b 
+
+ u  uI  fI  f 
+
+ u  dI  d  uI 
+
+ u  dI  uI  d 
+
+ u  lI  l  uI 
+
+ u  rI  r  uI 
+
+ u  bI  b  uI 
+
+ u  fI  f  uI 
+
+ d  u  uI  dI 
+
+ d  u  dI  uI 
+
+ d  d  d  d 
+
+ d  d  dI  dI 
+
+ d  l  lI  dI 
+
+ d  r  rI  dI 
+
+ d  b  bI  dI 
+
+ d  f  fI  dI 
+
+ d  uI  u  dI 
+
+ d  uI  dI  u 
+
+ d  dI  u  uI 
+
+ d  dI  d  dI 
+
+ d  dI  l  lI 
+
+ d  dI  r  rI 
+
+ d  dI  b  bI 
+
+ d  dI  f  fI 
+
+ d  dI  uI  u 
+
+ d  dI  dI  d 
+
+ d  dI  lI  l 
+
+ d  dI  rI  r 
+
+ d  dI  bI  b 
+
+ d  dI  fI  f 
+
+ d  lI  l  dI 
+
+ d  rI  r  dI 
+
+ d  bI  b  dI 
+
+ d  fI  f  dI 
+
+ l  u  uI  lI 
+
+ l  d  dI  lI 
+
+ l  l  l  l 
+
+ l  l  lI  lI 
+
+ l  r  lI  rI 
+
+ l  r  rI  lI 
+
+ l  b  bI  lI 
+
+ l  f  fI  lI 
+
+ l  uI  u  lI 
+
+ l  dI  d  lI 
+
+ l  lI  u  uI 
+
+ l  lI  d  dI 
+
+ l  lI  l  lI 
+
+ l  lI  r  rI 
+
+ l  lI  b  bI 
+
+ l  lI  f  fI 
+
+ l  lI  uI  u 
+
+ l  lI  dI  d 
+
+ l  lI  lI  l 
+
+ l  lI  rI  r 
+
+ l  lI  bI  b 
+
+ l  lI  fI  f 
+
+ l  rI  r  lI 
+
+ l  rI  lI  r 
+
+ l  bI  b  lI 
+
+ l  fI  f  lI 
+
+ r  u  uI  rI 
+
+ r  d  dI  rI 
+
+ r  l  lI  rI 
+
+ r  l  rI  lI 
+
+ r  r  r  r 
+
+ r  r  rI  rI 
+
+ r  b  bI  rI 
+
+ r  f  fI  rI 
+
+ r  uI  u  rI 
+
+ r  dI  d  rI 
+
+ r  lI  l  rI 
+
+ r  lI  rI  l 
+
+ r  rI  u  uI 
+
+ r  rI  d  dI 
+
+ r  rI  l  lI 
+
+ r  rI  r  rI 
+
+ r  rI  b  bI 
+
+ r  rI  f  fI 
+
+ r  rI  uI  u 
+
+ r  rI  dI  d 
+
+ r  rI  lI  l 
+
+ r  rI  rI  r 
+
+ r  rI  bI  b 
+
+ r  rI  fI  f 
+
+ r  bI  b  rI 
+
+ r  fI  f  rI 
+
+ b  u  uI  bI 
+
+ b  d  dI  bI 
+
+ b  l  lI  bI 
+
+ b  r  rI  bI 
+
+ b  b  b  b 
+
+ b  b  bI  bI 
+
+ b  f  bI  fI 
+
+ b  f  fI  bI 
+
+ b  uI  u  bI 
+
+ b  dI  d  bI 
+
+ b  lI  l  bI 
+
+ b  rI  r  bI 
+
+ b  bI  u  uI 
+
+ b  bI  d  dI 
+
+ b  bI  l  lI 
+
+ b  bI  r  rI 
+
+ b  bI  b  bI 
+
+ b  bI  f  fI 
+
+ b  bI  uI  u 
+
+ b  bI  dI  d 
+
+ b  bI  lI  l 
+
+ b  bI  rI  r 
+
+ b  bI  bI  b 
+
+ b  bI  fI  f 
+
+ b  fI  f  bI 
+
+ b  fI  bI  f 
+
+ f  u  uI  fI 
+
+ f  d  dI  fI 
+
+ f  l  lI  fI 
+
+ f  r  rI  fI 
+
+ f  b  bI  fI 
+
+ f  b  fI  bI 
+
+ f  f  f  f 
+
+ f  f  fI  fI 
+
+ f  uI  u  fI 
+
+ f  dI  d  fI 
+
+ f  lI  l  fI 
+
+ f  rI  r  fI 
+
+ f  bI  b  fI 
+
+ f  bI  fI  b 
+
+ f  fI  u  uI 
+
+ f  fI  d  dI 
+
+ f  fI  l  lI 
+
+ f  fI  r  rI 
+
+ f  fI  b  bI 
+
+ f  fI  f  fI 
+
+ f  fI  uI  u 
+
+ f  fI  dI  d 
+
+ f  fI  lI  l 
+
+ f  fI  rI  r 
+
+ f  fI  bI  b 
+
+ f  fI  fI  f 
+
+ uI  u  u  uI 
+
+ uI  u  d  dI 
+
+ uI  u  l  lI 
+
+ uI  u  r  rI 
+
+ uI  u  b  bI 
+
+ uI  u  f  fI 
+
+ uI  u  uI  u 
+
+ uI  u  dI  d 
+
+ uI  u  lI  l 
+
+ uI  u  rI  r 
+
+ uI  u  bI  b 
+
+ uI  u  fI  f 
+
+ uI  d  u  dI 
+
+ uI  d  dI  u 
+
+ uI  l  lI  u 
+
+ uI  r  rI  u 
+
+ uI  b  bI  u 
+
+ uI  f  fI  u 
+
+ uI  uI  u  u 
+
+ uI  uI  uI  uI 
+
+ uI  dI  u  d 
+
+ uI  dI  d  u 
+
+ uI  lI  l  u 
+
+ uI  rI  r  u 
+
+ uI  bI  b  u 
+
+ uI  fI  f  u 
+
+ dI  u  d  uI 
+
+ dI  u  uI  d 
+
+ dI  d  u  uI 
+
+ dI  d  d  dI 
+
+ dI  d  l  lI 
+
+ dI  d  r  rI 
+
+ dI  d  b  bI 
+
+ dI  d  f  fI 
+
+ dI  d  uI  u 
+
+ dI  d  dI  d 
+
+ dI  d  lI  l 
+
+ dI  d  rI  r 
+
+ dI  d  bI  b 
+
+ dI  d  fI  f 
+
+ dI  l  lI  d 
+
+ dI  r  rI  d 
+
+ dI  b  bI  d 
+
+ dI  f  fI  d 
+
+ dI  uI  u  d 
+
+ dI  uI  d  u 
+
+ dI  dI  d  d 
+
+ dI  dI  dI  dI 
+
+ dI  lI  l  d 
+
+ dI  rI  r  d 
+
+ dI  bI  b  d 
+
+ dI  fI  f  d 
+
+ lI  u  uI  l 
+
+ lI  d  dI  l 
+
+ lI  l  u  uI 
+
+ lI  l  d  dI 
+
+ lI  l  l  lI 
+
+ lI  l  r  rI 
+
+ lI  l  b  bI 
+
+ lI  l  f  fI 
+
+ lI  l  uI  u 
+
+ lI  l  dI  d 
+
+ lI  l  lI  l 
+
+ lI  l  rI  r 
+
+ lI  l  bI  b 
+
+ lI  l  fI  f 
+
+ lI  r  l  rI 
+
+ lI  r  rI  l 
+
+ lI  b  bI  l 
+
+ lI  f  fI  l 
+
+ lI  uI  u  l 
+
+ lI  dI  d  l 
+
+ lI  lI  l  l 
+
+ lI  lI  lI  lI 
+
+ lI  rI  l  r 
+
+ lI  rI  r  l 
+
+ lI  bI  b  l 
+
+ lI  fI  f  l 
+
+ rI  u  uI  r 
+
+ rI  d  dI  r 
+
+ rI  l  r  lI 
+
+ rI  l  lI  r 
+
+ rI  r  u  uI 
+
+ rI  r  d  dI 
+
+ rI  r  l  lI 
+
+ rI  r  r  rI 
+
+ rI  r  b  bI 
+
+ rI  r  f  fI 
+
+ rI  r  uI  u 
+
+ rI  r  dI  d 
+
+ rI  r  lI  l 
+
+ rI  r  rI  r 
+
+ rI  r  bI  b 
+
+ rI  r  fI  f 
+
+ rI  b  bI  r 
+
+ rI  f  fI  r 
+
+ rI  uI  u  r 
+
+ rI  dI  d  r 
+
+ rI  lI  l  r 
+
+ rI  lI  r  l 
+
+ rI  rI  r  r 
+
+ rI  rI  rI  rI 
+
+ rI  bI  b  r 
+
+ rI  fI  f  r 
+
+ bI  u  uI  b 
+
+ bI  d  dI  b 
+
+ bI  l  lI  b 
+
+ bI  r  rI  b 
+
+ bI  b  u  uI 
+
+ bI  b  d  dI 
+
+ bI  b  l  lI 
+
+ bI  b  r  rI 
+
+ bI  b  b  bI 
+
+ bI  b  f  fI 
+
+ bI  b  uI  u 
+
+ bI  b  dI  d 
+
+ bI  b  lI  l 
+
+ bI  b  rI  r 
+
+ bI  b  bI  b 
+
+ bI  b  fI  f 
+
+ bI  f  b  fI 
+
+ bI  f  fI  b 
+
+ bI  uI  u  b 
+
+ bI  dI  d  b 
+
+ bI  lI  l  b 
+
+ bI  rI  r  b 
+
+ bI  bI  b  b 
+
+ bI  bI  bI  bI 
+
+ bI  fI  b  f 
+
+ bI  fI  f  b 
+
+ fI  u  uI  f 
+
+ fI  d  dI  f 
+
+ fI  l  lI  f 
+
+ fI  r  rI  f 
+
+ fI  b  f  bI 
+
+ fI  b  bI  f 
+
+ fI  f  u  uI 
+
+ fI  f  d  dI 
+
+ fI  f  l  lI 
+
+ fI  f  r  rI 
+
+ fI  f  b  bI 
+
+ fI  f  f  fI 
+
+ fI  f  uI  u 
+
+ fI  f  dI  d 
+
+ fI  f  lI  l 
+
+ fI  f  rI  r 
+
+ fI  f  bI  b 
+
+ fI  f  fI  f 
+
+ fI  uI  u  f 
+
+ fI  dI  d  f 
+
+ fI  lI  l  f 
+
+ fI  rI  r  f 
+
+ fI  bI  b  f 
+
+ fI  bI  f  b 
+
+ fI  fI  f  f 
+
+ fI  fI  fI  fI 
+

@@ -1,0 +1,72 @@
+ u  d  uI  dI 
+1 2 7 8
+
+ u  dI  uI  d 
+1 8 7 2
+
+ d  u  dI  uI 
+2 1 8 7
+
+ d  uI  dI  u 
+2 7 8 1
+
+ l  r  lI  rI 
+3 4 9 10
+
+ l  rI  lI  r 
+3 10 9 4
+
+ r  l  rI  lI 
+4 3 10 9
+
+ r  lI  rI  l 
+4 9 10 3
+
+ b  f  bI  fI 
+5 6 11 12
+
+ b  fI  bI  f 
+5 12 11 6
+
+ f  b  fI  bI 
+6 5 12 11
+
+ f  bI  fI  b 
+6 11 12 5
+
+ uI  d  u  dI 
+7 2 1 8
+
+ uI  dI  u  d 
+7 8 1 2
+
+ dI  u  d  uI 
+8 1 2 7
+
+ dI  uI  d  u 
+8 7 2 1
+
+ lI  r  l  rI 
+9 4 3 10
+
+ lI  rI  l  r 
+9 10 3 4
+
+ rI  l  r  lI 
+10 3 4 9
+
+ rI  lI  r  l 
+10 9 4 3
+
+ bI  f  b  fI 
+11 6 5 12
+
+ bI  fI  b  f 
+11 12 5 6
+
+ fI  b  f  bI 
+12 5 6 11
+
+ fI  bI  f  b 
+12 11 6 5
+

@@ -1,0 +1,175 @@
+
+	/*
+		//for(numberOfPermutation=5;numberOfPermutation>0;numberOfPermutation--){
+		//counter1=getTotal(5,5);
+		//printf("||counter: %d||"+counter1);
+	//}
+	
+	
+	//clearFile();
+	 	
+	 	//four turns
+	/*for(t1 = 1; t1 <= 12; t1++){
+			for(t2 = 1; t2 <= 12; t2++){
+				if(t1 != t2+6&&t1 != t2-6){ //the inverse of the turn representing t3 is an index of 7 away
+					for(t3 = 1; t3 <= 12; t3++){
+						if(t2 != t3+6&&t2 != t3-6){
+							for(t4 = 1; t4 <= 12; t4++){
+								if(t3 != t4+6&&t3 != t4-6){
+									if(t1==t2&&t1==t2&&t1==t3&&t1==t4){
+									//do nothing
+									}
+									else{
+										struct cube *cube1;
+										initialize(&cube1);
+										a = checkEquality4(&cube1, &cube2, t1, t2, t3,t4);
+										counter2++;
+											if(a == 0){
+
+												counter1++;
+										
+											}	
+										for(int w = 0; w < 3; w++){
+											for(int r = 0; r < 3; r++){
+												for(int c = 0; c < 3; c++){
+													free(cube1->aCubie[w][r][c]);
+												}
+											}
+										}
+										free(cube1);
+									}//
+								}	
+							}
+						}//
+					}
+				}//
+			}
+		}
+	printf("\nInequality of 4: %d out of %d turns", counter1, counter2);
+	*/
+	
+	
+
+	
+	/*printf("before:\n");
+	printCube(&cube1);
+	printf("	1.face turns:\n");
+	up(&cube1);
+	up(&cube1);
+	up(&cube1);
+	up(&cube1);
+	
+	down(&cube1);
+	down(&cube1);
+	down(&cube1);
+	down(&cube1);
+	
+	left(&cube1);
+	left(&cube1);
+	left(&cube1);
+	left(&cube1);
+	
+	right(&cube1);
+	right(&cube1);
+	right(&cube1);
+	right(&cube1);
+	
+	front(&cube1);
+	front(&cube1);
+	front(&cube1);
+	front(&cube1);
+	
+	back(&cube1);
+	back(&cube1);
+	back(&cube1);
+	back(&cube1);
+	
+	
+	
+
+	printf("	2. Double face turns:\n");
+	
+	up2(&cube1);
+	up2(&cube1);
+
+	
+	down2(&cube1);
+	down2(&cube1);
+
+	
+	left2(&cube1);
+	left2(&cube1);
+
+	
+	right2(&cube1);
+	right2(&cube1);
+
+	
+	front2(&cube1);
+	front2(&cube1);
+
+
+	back2(&cube1);
+	back2(&cube1);
+		
+	printf("	3. Inverse face turns:\n");
+	
+	upI(&cube1);
+	upI(&cube1);
+	upI(&cube1);
+	upI(&cube1);
+			printf("after:\n");
+
+	downI(&cube1);
+	downI(&cube1);
+	downI(&cube1);
+	downI(&cube1);
+	
+	leftI(&cube1);
+	leftI(&cube1);
+	leftI(&cube1);
+	leftI(&cube1);
+
+	rightI(&cube1);
+	rightI(&cube1);
+	rightI(&cube1);
+	rightI(&cube1);
+	
+	frontI(&cube1);
+	frontI(&cube1);
+	frontI(&cube1);
+	frontI(&cube1);
+	
+	backI(&cube1);
+	backI(&cube1);
+	backI(&cube1);
+	backI(&cube1);
+
+	printCube(&cube1);*/
+
+		//cube1 contains a POINTER to the cube which contains cubie -- it is not an actual cube. So when I pass cube1 into the leftI function 
+		//-- I am passing in an address to the cube, since cube1 is a pointer(why in the leftI(cube *c) function you have pass in a pointer to a cube.
+		//http://stackoverflow.com/questions/3629082/scope-of-malloc-used-in-a-function
+		//leftI(cube1);//now passing in the addresss to the POINTER cube1 which points to the cube. Used for using a double pointer
+
+		/*printf("	4. Should be same cube:\n");
+		printCube(&cube1);
+		wUnsolved(&cube1, "cube1Changes.txt");
+		printf("changes saved to cube1Changes.txt\n");*/
+		
+		//free each cubie and whole cube
+//		for(int w = 0; w < 3; w++){
+//			for(int r = 0; r < 3; r++){
+//				for(int c = 0; c < 3; c++){
+//					free(cube1->aCubie[w][r][c]);
+//					free(cube2->aCubie[w][r][c]);
+//				}
+//			}
+//		}
+//		free(cube1);
+//		free(cube2);
+		//free(cube1.);
+		//free(
+		//printf("\n");
+		
+		*/

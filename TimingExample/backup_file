@@ -1,0 +1,51 @@
+ millisec = lrint(tv.tv_usec/1000.0); // Round to nearest millisec
+  if (millisec>=1000) { // Allow for rounding up to nearest second
+    millisec -=1000;
+    tv.tv_sec++;
+  }
+
+  tm_info = localtime(&tv.tv_sec);
+
+  strftime(buffer, 26, "%Y:%m:%d %H:%M:%S", tm_info);
+  printf("%s.%03d\n", buffer, millisec);
+
+
+
+
+
+
+
+#include <getopt.h>
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sys/time.h>
+
+typedef double fp_t;
+
+/*
+ * prototypes
+ */
+double get_wctime(void);
+
+/*
+ * get_wctime() - returns wall clock time as double
+ */
+double get_wctime(void) {
+  struct timeval tv;
+  gettimeofday(&tv, NULL);
+  return (tv.tv_sec*1E6 + tv.tv_usec);
+}
+
+int main() {
+  double start, end;
+    /* timer initialize */
+  printf("Initializing...\n");
+  start = get_wctime();
+    /* timer end and print */
+   printf("Hello World!");
+  end = get_wctime();
+  printf("Time to print 'Hello World!': %10.7f ms\n\n", (end-start)/1000.0);
+  // 1000 converts s to ms
+  }
